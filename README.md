@@ -21,12 +21,13 @@ NYU M.S. Computer Science candidate (May 2027) focused on backend software engin
 
 ## In Progress
 
-### Agentic AI HVAC Bid-Preparation Assistant
+### Agentic AI HVAC Bid Intelligence & Compliance Copilot
 *IBM SkillsBuild AI Experiential Learning Lab | Team project | Project design | Sep. 2026 - Present*
 
-- Designing a human-in-the-loop agentic AI workflow for HVAC contractor bid teams that analyzes solicitation documents, maps requirements to company qualification and personnel records, and prepares a structured, non-price draft of the technical and qualification sections.
-- Scoped AI-driven reasoning for solicitation requirement extraction, project-specific technical drafting, and semantic response-coverage review, while deterministic rules handle staff credential and availability screening, evidence matching, and Word document assembly.
-- Designed the workflow to reduce repetitive document search and formatting work, flag missing or unsupported requirements, and keep pricing, signatures, final approval, and submission under human control.
+- Designing a human-in-the-loop agentic AI copilot for HVAC bid teams that converts solicitation documents into structured qualification, personnel, scoring, and technical requirements, then links each requirement to supporting company or manufacturer evidence and flags missing or non-compliant items.
+- Defining an orchestration workflow in which LLM-based reasoning interprets ambiguous tender requirements and routes verification to deterministic services for staff credential screening, technical-parameter comparison, evidence retrieval, and compliance checks, with uncertain or high-risk cases escalated for human review.
+- Refined the product scope through user surveys (questionnaires) with bid-preparation staff, prioritizing requirement extraction, technical-parameter compliance, evidence-backed review, and risk detection over full document generation; pricing, signatures, final approval, and submission remain outside the automated workflow.
+- Serving as the initiating member: originated the project concept, designed and ran the user surveys with six bid-preparation staff, and translated the findings into the compliance-first scope; collaborating with one teammate who pressure-tests the design through technical deep-dives and implementation questions.
 
 ## Certifications
 
