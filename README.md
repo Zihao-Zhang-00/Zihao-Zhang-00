@@ -28,6 +28,7 @@ NYU M.S. Computer Science candidate (May 2027) focused on backend software engin
 - Defining an orchestration workflow in which LLM-based reasoning interprets ambiguous tender requirements and routes verification to deterministic services for staff credential screening, technical-parameter comparison, evidence retrieval, and compliance checks, with uncertain or high-risk cases escalated for human review.
 - Refined the product scope through user surveys (questionnaires) with bid-preparation staff, prioritizing requirement extraction, technical-parameter compliance, evidence-backed review, and risk detection over full document generation; pricing, signatures, final approval, and submission remain outside the automated workflow.
 - Serving as the initiating member: originated the project concept, designed and ran the user surveys with six bid-preparation staff, and translated the findings into the compliance-first scope; collaborating with one teammate who pressure-tests the design through technical deep-dives and implementation questions.
+ - **Project Brief:** [中文版](docs/HVAC_Bid_Intelligence_Compliance_Copilot_CN.pdf) | [English](docs/HVAC_Bid_Intelligence_Compliance_Copilot_EN.pdf)
 
 ## Certifications
 
